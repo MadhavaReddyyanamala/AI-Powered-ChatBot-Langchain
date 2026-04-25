@@ -18,10 +18,8 @@ An intelligent hospital assistant powered by **Hugging Face Inference API** and 
 
 ## 🗂️ Project Structure
 
-```
 <img width="604" height="764" alt="image" src="https://github.com/user-attachments/assets/5e818627-9892-4289-8ceb-61a01ebcb563" />
 
-```
 
 ---
 
