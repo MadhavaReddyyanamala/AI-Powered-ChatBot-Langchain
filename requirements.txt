@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pypdf
+langchain-text-splitters
+faiss-cpu
+numpy
+huggingface_hub
+openai
+# langsmith
