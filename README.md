@@ -6,7 +6,7 @@ An intelligent hospital assistant powered by **Hugging Face Inference API** and 
 
 ---
 [![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/mad0030/AI-Hospital-Chatbot)
-
+[![AI Hospital Chatbot](https://img.shields.io/badge/AI%20Hospital%20Chatbot-Demo-FF4B4B?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/mad0030/AI-Hospital-Chatbot)
 ## ✨ Features
 
 - **General query handling** — answers common medical knowledge questions
