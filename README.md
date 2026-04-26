@@ -5,6 +5,7 @@
 An intelligent hospital assistant powered by **Hugging Face Inference API** and **Retrieval-Augmented Generation (RAG)**. The chatbot answers general health queries, provides symptom guidance, and retrieves hospital-specific information directly from your PDF documents.
 
 ---
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/mad0030/AI-Hospital-Chatbot)
 
 ## ✨ Features
 
